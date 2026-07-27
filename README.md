@@ -4,7 +4,7 @@ Tugas dikerjakan dalam format ***Python script (.py)*** dengen beberapa **kriter
 
 1. *Project* dinyatakan selesai dan diterima untuk dinilai jika script dapat dijalankan dengan baik di prompt maupun terminal.
 
-2. Pada tugas Graded Challenge 2, akan diminta untuk membuat:
+2. Pada tugas ini akan diminta untuk membuat:
   - **satu file .py** yang berisikan full program sesuai dengan instruksi soal.
   - satu file gambar screenshot running program dan hasil running.
 
