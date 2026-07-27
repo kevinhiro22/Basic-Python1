@@ -1,13 +1,10 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/BeT7-fOS)
-# Graded Challenge 2
-
-_Graded Challenge ini dibuat guna mengevaluasi pembelajaran pada Hacktiv8 Data Science Fulltime Program khususnya pada konsep Conditionals, Loops, dan Functions._
+Tugas ini dibuat guna mengevaluasi pembelajaran pada Hacktiv8 Data Science Fulltime Program khususnya pada konsep Conditionals, Loops, dan Functions._
 
 ---
 
 ## Assignment Instructions
 
-*Graded Challenge 2* dikerjakan dalam format ***Python script (.py)*** dengen beberapa **kriteria wajib** di bawah ini:
+Tugas dikerjakan dalam format ***Python script (.py)*** dengen beberapa **kriteria wajib** di bawah ini:
 
 1. *Project* dinyatakan selesai dan diterima untuk dinilai jika script dapat dijalankan dengan baik di prompt maupun terminal.
 
@@ -64,7 +61,7 @@ _Graded Challenge ini dibuat guna mengevaluasi pembelajaran pada Hacktiv8 Data S
 
 ## Assignment Objectives
 
-*Graded Challenge 2* ini dibuat guna mengevaluasi konsep konsep Conditionals, Loops, dan Functions.
+Tugas ini dibuat guna mengevaluasi konsep konsep Conditionals, Loops, dan Functions.
 
 - Mampu menggunakan Python sequence object (list/dictionary) untuk menyimpan data.
 - Mampu menerapkan conditional if pada sebuah kasus.
@@ -187,22 +184,4 @@ Sampai Jumpa! Terima kasih sudah belanja di Toko Makmur.
 ```
 
 
----
 
-## Assignment Rubrics
-
-|**Key Component**|**Description**|**Points**|
-|---|---|---|
-|Functions|Siswa mampu menerapkan function berdasarkan kasus yang ingin diselesaikan|6 pts|
-|Looping|Siswa mampu menerapkan looping sesuai dengan instruksi pada soal|6 pts|
-|Conditional If|Mampu menerapkan conditional if dalam suatu kasus|6 pts|
-|Runs Perfectly|Kode berialan tapa ada error. Seluruh kode berfungsi dan dibuat dengan benar.|2 pts|
-
-**Total: 20 pts**
-
----
-## Score Reduction
-
-Jika Student terlambat mengumpulkan dengan waktu yang ditentukan, maka Graded Challenge akan diberi poin nol.
-
----
