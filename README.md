@@ -1,7 +1,3 @@
-Tugas ini dibuat guna mengevaluasi pembelajaran pada Hacktiv8 Data Science Fulltime Program khususnya pada konsep Conditionals, Loops, dan Functions._
-
----
-
 ## Assignment Instructions
 
 Tugas dikerjakan dalam format ***Python script (.py)*** dengen beberapa **kriteria wajib** di bawah ini:
